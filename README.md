@@ -1,6 +1,6 @@
 ## Hello world!!
 
-I'm a Systems and Computing Engineering from Universidad Nacional de Colombia. Software, systems, and tech in general has always had a special place in my heart.
+I'm a Systems and Computing Engineer from Universidad Nacional de Colombia. Software, systems, and tech in general has always had a special place in my heart.
 
 - 🔭 I’m currently working on landing a job in Cloud / DevOps
 - 🌱 I’m currently learning AWS, CI/CD, Docker, Kubernetes and Bash scripting
