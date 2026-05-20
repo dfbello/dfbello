@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello world!!
 
+I'm a Systems and Computing Engineering from Universidad Nacional de Colombia. Software, systems, and tech in general has always had a special place in my heart.
+
+- 🔭 I’m currently working on landing a job in Cloud / DevOps
+- 🌱 I’m currently learning AWS, CI/CD, Docker, Kubernetes and Bash scripting
+- 🤔 I’m looking for help with any job offerings in Cloud / DevOps
+- 📫 How to reach me: *diferbelo01@gmail.com*
+
+When I'm not tinkering within this fascinating field, I'm usually playing Counter-Strike, football, or just hanging around with friends and family.
 <!--
 **dfbello/dfbello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
